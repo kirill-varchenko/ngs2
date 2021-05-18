@@ -1,0 +1,5 @@
+digraph G {
+rankdir=LR
+"node_1850" -> "node_1763" [label="L = 44824, MC = 174.46 (1)"];
+"node_1758" -> "node_1849" [label="L = 41024, MC = 174.46 (1)"];
+}

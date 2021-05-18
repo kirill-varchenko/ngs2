@@ -1,0 +1,17 @@
+digraph G {
+rankdir=LR
+"node_163" -> "node_1849" [label="L = 25432, MC = 166.32 (1)"];
+"node_1868" -> "node_1881" [label="L = 4264, MC = 29.93 (1)"];
+"node_1383" -> "node_1763" [label="L = 15688, MC = 126.88 (3)"];
+"node_88" -> "node_1383" [label="L = 4824, MC = 230.16 (87)"];
+"node_1758" -> "node_1392" [label="L = 15688, MC = 126.88 (3)"];
+"node_1850" -> "node_88" [label="L = 25432, MC = 166.32 (1)"];
+"node_1392" -> "node_163" [label="L = 4824, MC = 230.16 (87)"];
+"node_1882" -> "node_1873" [label="L = 4264, MC = 29.93 (1)"];
+"node_1875" -> "node_1733" [label="L = 344, MC = 10.79 (2)"];
+"node_1714" -> "node_1874" [label="L = 344, MC = 10.79 (2)"];
+"node_1599" -> "node_88" [label="L = 58, MC = 35.17 (7)"];
+"node_1656" -> "node_1392" [label="L = 60, MC = 14.00 (2)"];
+"node_1383" -> "node_1655" [label="L = 60, MC = 14.00 (2)"];
+"node_163" -> "node_1598" [label="L = 58, MC = 35.17 (7)"];
+}
